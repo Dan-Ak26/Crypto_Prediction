@@ -23,7 +23,7 @@ Models were trained on technical indicators such as RSI, MACD, SMA, and ATR to p
 
 ### 1. Open in Colab
 Click below to open and run the notebook directly in Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dan-Ak26/Crypto_Prediction/blob/main/Crypto_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dan-Ak26/Crypto_data_pull.ipynb/blob/main/Crypto_Prediction.ipynb)
 
 ---
 
